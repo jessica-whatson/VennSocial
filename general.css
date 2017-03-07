@@ -1,14 +1,11 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
-h1 {
+
+.header {
     font-size: 80px;
-    color: #414757;
-    margin: 10px 0 0 20px;
 }
 
-p { 
-    margin: 0 40px 10px 40px; }
 
 ul.topnav {
     list-style-type: none;
@@ -36,7 +33,7 @@ ul.topnav li a.active {background-color: #B80606;}
 ul.topnav li.right {float: right;}
 
 .widget {
-    margin: 50px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
 }
 
 
