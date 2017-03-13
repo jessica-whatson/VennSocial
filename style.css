@@ -61,6 +61,7 @@ ul.topnav li.right {float: right;}
     border-style: solid;
     border-color: #E3E3E3;
     text-align: center;
+    margin: -10px 0 0 0;
 }
 
 .fourtext {
@@ -96,11 +97,18 @@ ul.topnav li.right {float: right;}
 .svntext {
     font-size: 35px;
     text-align: center;
-    order-color: #cc7a7a;
+    border-color: #cc7a7a;
     border-style: solid;
     margin: 0 0 0 60px;
     background: #bc7e7e;
 
+}
+
+.eighttext { 
+    font-size: 25px; 
+    margin: 0 70px 0 50px;
+    background-color: #E3E3E3;
+    text-align: center;
 }
 
 .full {
