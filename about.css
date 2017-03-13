@@ -23,7 +23,105 @@ ul.topnav li a.active {background-color: #B80606;}
 
 ul.topnav li.right {float: right;}
 
-@media screen and (max-width: 600px) {
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 6px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+  }  
+
+button {
+
+    background-color: #FFFFFF;
+    color: black;
+    padding: 5px 10px;
+    margin: 2px 0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    width: 5%;
+
+ }   
+
+.signupbtn {
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left!important;
+    border-radius: 4px;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    color: #555;
+
 }
+
+#mce-EMAIL {
+
+  padding-top: 10px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+
+}
+
+#content {
+
+    float: bottom;
+    width: 20%;
+  margin-left: auto ;
+  margin-right: auto ;
+  color: black;
+  border: 1px solid #ccc;
+  padding: 6px 12px;
+
+}
+
+.form-control {
+ margin-left:auto;
+ margin-right:auto;
+ width:50%;
+
+}
+
+h5 {
+
+    height: 5%;
+    width: 90%; 
+    margin: 3%;   
+ 
+}
+
+.part {
+
+float: bottom;
+width: 80%;
+margin-right: 100px ;
+margin-left: 130px;
+padding: 12px 12px;
+
+}
+
+h3 {
+
+    height: 5%;
+    width: 80%;
+    margin: 3%;
+
+}
+ 
+h1 {
+    margin: 3%;
+}
+
+h2 {
+margin: 3%;
+}
+
+.CFG {
+
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
